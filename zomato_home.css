@@ -1,0 +1,109 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Arial, sans-serif;
+}
+
+form {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+form a {
+    text-decoration: none;
+    margin: 10px;
+}
+
+/* img.image {
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+} */
+
+h1 {
+    margin-top: 20px;
+    font-size: 24px;
+    text-align: center;
+}
+
+/* .image {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.image a {
+    margin: 10px;
+} */
+
+pre {
+    white-space: pre-wrap;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 20px auto;
+    font-size: 20px;
+    color: black;
+}
+
+.acc input[type="button"] {
+    height: 50px;
+    width: 150px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+input[list="Yog"] {
+    margin-left: 10px;
+    padding: 10px;
+    font-size: 16px;
+    width: 200px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+h1,
+pre {
+    color: #e44d26;
+}
+
+/* .category-names,
+.brand-names,
+.restaurant-names {
+    font-weight: bold;
+} */
+
+/* .delivery-restaurants {
+    text-align: center;
+}
+
+.restaurant-card {
+    margin-top: 20px;
+} */
+
+
+/* .image {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.image a {
+    margin: 10px;
+}
+
+.image img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+} */
